@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "name": "Column",
+  "meshUrl": "moliano.glb",
+  "defects": [
+    {
+      "id": "col_def1",
+      "name": "Column Defect",
+      "meshUrl": "moliano_area1.obj",
+      "color": [0, 0, 1]
+    }
+  ]
+}

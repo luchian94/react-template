@@ -1,0 +1,43 @@
+/* Customizations to the designer theme should be defined here */
+@layer primereact {
+  .p-inputtext {
+    @apply w-full;
+  }
+
+  .p-sidebar {
+    width: 45% !important;
+    max-width: 800px !important;
+    .p-sidebar-header {
+      padding: 20px 35px 0px 35px !important;
+    }
+    .p-sidebar-content {
+      padding: 30px 35px 45px 35px !important;
+    }
+  }
+
+  .p-datatable {
+    .p-datatable-thead {
+      & > tr {
+        & > th {
+          @apply bg-neutral-100;
+        }
+      }
+    }
+
+    .p-datatable-tbody {
+      & > tr {
+        background: transparent !important;
+      }
+
+      & > tr > td {
+        padding: 1rem;
+      }
+    }
+  }
+
+  .hide-home.p-breadcrumb .p-breadcrumb-list {
+    [id$='_sep_home'] {
+      display: none;
+    }
+  }
+}

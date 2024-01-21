@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Lynsogdevve Pillar",
+    "description": "Analysis of one pylon of the Den Nye Lillebæltsbro bridge in Denmark",
+    "country": "Denmark",
+    "droneOperator": "WeFly",
+    "lastInspectionDate": "2023-09-20T14:48:00.000Z",
+    "lat": 55.520972,
+    "lng": 9.737861
+  },
+  {
+    "id": 2,
+    "name": "Moliano Pillar",
+    "description": "Analysis of the base of a pylon of a south bridge in Moliano",
+    "country": "Italy",
+    "droneOperator": "Archetipo",
+    "lastInspectionDate": "2023-08-25T10:15:00.000Z",
+    "lat": 40.571361,
+    "lng": 16.038306
+  },
+  {
+    "id": 3,
+    "name": "Gazzaniga Pillar",
+    "description": "Analysis of one pylon of a bridge on Via IV Novembre in Gazzaniga, BG",
+    "country": "Italy",
+    "droneOperator": "Primis",
+    "lastInspectionDate": "2023-11-07T16:30:00.000Z",
+    "lat": 45.790222,
+    "lng": 9.828194
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "area1",
+    "name": "Area 1",
+    "meshUrl": "moliano_area1.obj",
+    "color": [0, 0, 1]
+  },
+  {
+    "id": "area2",
+    "name": "Area 2",
+    "meshUrl": "moliano_area2.obj",
+    "color": [1, 0, 0]
+  },
+  {
+    "id": "area3",
+    "name": "Area 3",
+    "meshUrl": "moliano_area3.obj",
+    "color": [1, 0, 0]
+  },
+  {
+    "id": "area4",
+    "name": "Area 4",
+    "meshUrl": "moliano_area4.obj",
+    "color": [0, 0, 1]
+  }
+]

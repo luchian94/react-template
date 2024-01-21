@@ -1,0 +1,34 @@
+{
+  "id": 1,
+  "name": "Gazzaniga Pillar",
+  "meshUrl": "texturedMesh.obj",
+  "ifcMeshUrl": "moliano.glb",
+  "lat": 45.790222,
+  "lng": 9.828194,
+  "description": "Analysis of one pylon of the Den Nye Lillebæltsbro bridge in Denmark",
+  "country": "Denmark",
+  "droneOperator": "WeFly",
+  "lastInspectionDate": "2024-01-15T14:48:00.000Z",
+  "elements": [
+    {
+      "id": "Column",
+      "name": "Column"
+    },
+    {
+      "id": "Beam",
+      "name": "Beam"
+    },
+    {
+      "id": "mesh_mm1",
+      "name": "Mesh 1"
+    },
+    {
+      "id": "mesh_mm2",
+      "name": "Mesh 2"
+    },
+    {
+      "id": "mesh_mm3",
+      "name": "Mesh 3"
+    }
+  ]
+}
